@@ -1,1 +1,1 @@
-web: app:app
+web: gunicorn sdg_cohort1:app
