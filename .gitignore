@@ -1,0 +1,13 @@
+# virtual env
+venv/
+
+# editor settings
+.vscode
+
+# logs
+logs
+
+# dev
+app.db
+
+.env
